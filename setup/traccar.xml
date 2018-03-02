@@ -23,4 +23,11 @@
     <entry key='database.user'>sa</entry>
     <entry key='database.password'></entry>
 
+    <entry key='mail.smtp.host'>smtp.gmail.com</entry>
+    <entry key='mail.smtp.port'>465</entry>
+    <entry key='mail.smtp.ssl.enable'>true</entry>
+    <entry key='mail.smtp.from'>ideatracknotification@gmail.com</entry>
+    <entry key='mail.smtp.auth'>true</entry>
+    <entry key='mail.smtp.username'>ideatracknotification@gmail.com</entry>
+    <entry key='mail.smtp.password'>ideatracknotification123</entry>
 </properties>
