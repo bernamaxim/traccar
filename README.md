@@ -33,4 +33,4 @@ Please read [build from source documentation](https://www.traccar.org/build/) on
     limitations under the License.
 
 ## Edited by bernamaxim
-
+    - Update submodule - 13 Mar 2018
