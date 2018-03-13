@@ -30,4 +30,11 @@
     <entry key='mail.smtp.auth'>true</entry>
     <entry key='mail.smtp.username'>ideatracknotification@gmail.com</entry>
     <entry key='mail.smtp.password'>ideatracknotification123</entry>
+
+    <entry key='web.address'>ideatrack.grawiradhika.com</entry>
+
+    <entry key='geocoder.enable'>true</entry>
+    <entry key='geocoder.type'>nominatim</entry>
+    <entry key='geocoder.url'>https://locationiq.org/v1/reverse.php</entry>
+    <entry key='geocoder.key'>54935235901</entry>
 </properties>
